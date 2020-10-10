@@ -10,5 +10,5 @@ class App < Sinatra::Base
     <p>Small Forward: <input type="text" name="small_forward"></p>
     <p>Power Forward: <input type="text" name="power_forward"></p>
     <p>Center: <input type="text" name="center"></p>
-
+    <input type="submit"></form>
 end
